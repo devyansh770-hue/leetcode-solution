@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/devyansh770-hue/leetcode-solution/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/devyansh770-hue/leetcode-solution/tree/master/0062-unique-paths) |
 | [0509-fibonacci-number](https://github.com/devyansh770-hue/leetcode-solution/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/devyansh770-hue/leetcode-solution/tree/master/0062-unique-paths) |
 | [0152-maximum-product-subarray](https://github.com/devyansh770-hue/leetcode-solution/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/devyansh770-hue/leetcode-solution/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -42,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/devyansh770-hue/leetcode-solution/tree/master/0509-fibonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/devyansh770-hue/leetcode-solution/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
