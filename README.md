@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/devyansh770-hue/leetcode-solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/devyansh770-hue/leetcode-solution/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/devyansh770-hue/leetcode-solution/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/devyansh770-hue/leetcode-solution/tree/master/0213-house-robber-ii) |
 | [0904-fruit-into-baskets](https://github.com/devyansh770-hue/leetcode-solution/tree/master/0904-fruit-into-baskets) |
 | [1480-running-sum-of-1d-array](https://github.com/devyansh770-hue/leetcode-solution/tree/master/1480-running-sum-of-1d-array) |
 ## Binary Search
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/devyansh770-hue/leetcode-solution/tree/master/0062-unique-paths) |
 | [0152-maximum-product-subarray](https://github.com/devyansh770-hue/leetcode-solution/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/devyansh770-hue/leetcode-solution/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/devyansh770-hue/leetcode-solution/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/devyansh770-hue/leetcode-solution/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
