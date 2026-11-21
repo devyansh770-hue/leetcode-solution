@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/devyansh770-hue/leetcode-solution/tree/master/0033-search-in-rotated-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/devyansh770-hue/leetcode-solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0152-maximum-product-subarray](https://github.com/devyansh770-hue/leetcode-solution/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/devyansh770-hue/leetcode-solution/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/devyansh770-hue/leetcode-solution/tree/master/0213-house-robber-ii) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/devyansh770-hue/leetcode-solution/tree/master/0033-search-in-rotated-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/devyansh770-hue/leetcode-solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Math
 |  |
 | ------- |
