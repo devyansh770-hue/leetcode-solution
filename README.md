@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/devyansh770-hue/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0904-fruit-into-baskets](https://github.com/devyansh770-hue/leetcode-solution/tree/master/0904-fruit-into-baskets) |
 ## Sliding Window
 |  |
@@ -58,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/devyansh770-hue/leetcode-solution/tree/master/0062-unique-paths) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/devyansh770-hue/leetcode-solution/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/devyansh770-hue/leetcode-solution/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
