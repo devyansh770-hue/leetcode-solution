@@ -28,10 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/devyansh770-hue/leetcode-solution/tree/master/0242-valid-anagram) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/devyansh770-hue/leetcode-solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/devyansh770-hue/leetcode-solution/tree/master/0904-fruit-into-baskets) |
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/devyansh770-hue/leetcode-solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/devyansh770-hue/leetcode-solution/tree/master/0904-fruit-into-baskets) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/devyansh770-hue/leetcode-solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Prefix Sum
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/devyansh770-hue/leetcode-solution/tree/master/0242-valid-anagram) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/devyansh770-hue/leetcode-solution/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Sorting
 |  |
 | ------- |
