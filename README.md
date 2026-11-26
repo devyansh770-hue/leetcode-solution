@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/devyansh770-hue/leetcode-solution/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/devyansh770-hue/leetcode-solution/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/devyansh770-hue/leetcode-solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/devyansh770-hue/leetcode-solution/tree/master/0904-fruit-into-baskets) |
 ## Sliding Window
@@ -65,9 +66,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/devyansh770-hue/leetcode-solution/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/devyansh770-hue/leetcode-solution/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/devyansh770-hue/leetcode-solution/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/devyansh770-hue/leetcode-solution/tree/master/0242-valid-anagram) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/devyansh770-hue/leetcode-solution/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
